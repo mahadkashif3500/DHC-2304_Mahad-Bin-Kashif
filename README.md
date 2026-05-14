@@ -109,5 +109,5 @@ Churn Modelling Dataset — `Churn_Modelling.csv` (10,000 rows, 14 columns inclu
 ## Author
 
 **Mahad Bin Kashif**  
-Data Science & Analytics Intern — DevelopersHub Corporation  
+Data Science & Analytics Intern - DevelopersHub Corporation  
 Intern ID: DHC-2304
