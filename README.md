@@ -21,7 +21,7 @@ This repository contains my completed internship tasks as part of the **Data Sci
 Understand how to load, summarize, and visualize a dataset using pandas, matplotlib, and seaborn.
 
 ### Dataset
-Iris Dataset — loaded directly via `seaborn.load_dataset('iris')` (150 samples, 3 species, 4 features).
+Iris Dataset, loaded directly via `seaborn.load_dataset('iris')` (150 samples, 3 species, 4 features).
 
 ### Approach
 - Loaded the dataset and inspected its structure using `.shape`, `.columns`, and `.head()`
@@ -47,7 +47,7 @@ Iris Dataset — loaded directly via `seaborn.load_dataset('iris')` (150 samples
 Predict whether a loan applicant is likely to get their loan approved based on personal and financial data.
 
 ### Dataset
-Loan Prediction Dataset — `loan_prediction.csv` (614 rows, 13 columns including applicant income, loan amount, credit history, and loan status).
+Loan Prediction Dataset, `loan_prediction.csv` (614 rows, 13 columns including applicant income, loan amount, credit history, and loan status).
 
 ### Approach
 - **Data Cleaning**: Handled missing values — categorical columns filled with mode, `LoanAmount` filled with median
@@ -72,7 +72,7 @@ Loan Prediction Dataset — `loan_prediction.csv` (614 rows, 13 columns includin
 Identify bank customers who are likely to leave (churn) based on demographic and account information.
 
 ### Dataset
-Churn Modelling Dataset — `Churn_Modelling.csv` (10,000 rows, 14 columns including geography, age, balance, credit score, and exit status).
+Churn Modelling Dataset, `Churn_Modelling.csv` (10,000 rows, 14 columns including geography, age, balance, credit score, and exit status).
 
 ### Approach
 - **Data Cleaning**: Dropped non-informative columns (`RowNumber`, `CustomerId`, `Surname`)
